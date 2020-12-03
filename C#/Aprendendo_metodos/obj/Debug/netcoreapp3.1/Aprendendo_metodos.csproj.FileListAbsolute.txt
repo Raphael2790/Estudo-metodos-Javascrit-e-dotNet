@@ -1,0 +1,13 @@
+C:\Users\RSS_s\OneDrive\Área de Trabalho\Aprendendo funções e métodos das classes C# e Javascript\C#\Aprendendo_metodos\bin\Debug\netcoreapp3.1\Aprendendo_metodos.exe
+C:\Users\RSS_s\OneDrive\Área de Trabalho\Aprendendo funções e métodos das classes C# e Javascript\C#\Aprendendo_metodos\bin\Debug\netcoreapp3.1\Aprendendo_metodos.deps.json
+C:\Users\RSS_s\OneDrive\Área de Trabalho\Aprendendo funções e métodos das classes C# e Javascript\C#\Aprendendo_metodos\bin\Debug\netcoreapp3.1\Aprendendo_metodos.runtimeconfig.json
+C:\Users\RSS_s\OneDrive\Área de Trabalho\Aprendendo funções e métodos das classes C# e Javascript\C#\Aprendendo_metodos\bin\Debug\netcoreapp3.1\Aprendendo_metodos.runtimeconfig.dev.json
+C:\Users\RSS_s\OneDrive\Área de Trabalho\Aprendendo funções e métodos das classes C# e Javascript\C#\Aprendendo_metodos\bin\Debug\netcoreapp3.1\Aprendendo_metodos.dll
+C:\Users\RSS_s\OneDrive\Área de Trabalho\Aprendendo funções e métodos das classes C# e Javascript\C#\Aprendendo_metodos\bin\Debug\netcoreapp3.1\Aprendendo_metodos.pdb
+C:\Users\RSS_s\OneDrive\Área de Trabalho\Aprendendo funções e métodos das classes C# e Javascript\C#\Aprendendo_metodos\obj\Debug\netcoreapp3.1\Aprendendo_metodos.csprojAssemblyReference.cache
+C:\Users\RSS_s\OneDrive\Área de Trabalho\Aprendendo funções e métodos das classes C# e Javascript\C#\Aprendendo_metodos\obj\Debug\netcoreapp3.1\Aprendendo_metodos.AssemblyInfoInputs.cache
+C:\Users\RSS_s\OneDrive\Área de Trabalho\Aprendendo funções e métodos das classes C# e Javascript\C#\Aprendendo_metodos\obj\Debug\netcoreapp3.1\Aprendendo_metodos.AssemblyInfo.cs
+C:\Users\RSS_s\OneDrive\Área de Trabalho\Aprendendo funções e métodos das classes C# e Javascript\C#\Aprendendo_metodos\obj\Debug\netcoreapp3.1\Aprendendo_metodos.csproj.CoreCompileInputs.cache
+C:\Users\RSS_s\OneDrive\Área de Trabalho\Aprendendo funções e métodos das classes C# e Javascript\C#\Aprendendo_metodos\obj\Debug\netcoreapp3.1\Aprendendo_metodos.dll
+C:\Users\RSS_s\OneDrive\Área de Trabalho\Aprendendo funções e métodos das classes C# e Javascript\C#\Aprendendo_metodos\obj\Debug\netcoreapp3.1\Aprendendo_metodos.pdb
+C:\Users\RSS_s\OneDrive\Área de Trabalho\Aprendendo funções e métodos das classes C# e Javascript\C#\Aprendendo_metodos\obj\Debug\netcoreapp3.1\Aprendendo_metodos.genruntimeconfig.cache
